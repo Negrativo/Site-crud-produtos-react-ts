@@ -1,0 +1,33 @@
+.container-login {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-welcome {
+    min-height: 100px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text-subtitle {
+    display: flex;
+}
+
+.inputs {
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.img-login {
+    margin-bottom: 20px;
+}
