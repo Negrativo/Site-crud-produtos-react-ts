@@ -1,15 +1,13 @@
 # Site-crud-produtos-react-ts
 Site de gestao de produtos em React
 
-
-![Fundo 1](./public/image1.png)
-
 ![Fundo 2](./public/image2.png)
 
 ![Fundo 3](./public/image3.png)
 
 ![Fundo 4](./public/image4.png)
 
+![Tema escuro](./public/image1.png)
 
 # React + Vite
 
